@@ -15,16 +15,16 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
 
-<br>
 </div>
 
+<div align="left>
 <h3>🔥 Tech Stack 🔥</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/></p>
 
 <p><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-brightgreen?style=flat&logo=Django"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSql-blue?logo=postgresql&logoColor=white"/></p>
 
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/VScode-grey?style=flat&logo=VisualStudioCode&logoColor=blue"/></p>
-
+</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elsh97&show_icons=true&theme=tokyonight)
 
