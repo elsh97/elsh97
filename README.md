@@ -10,7 +10,8 @@
 
 #
 <div align="right">
-[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
 </div>
