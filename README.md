@@ -9,10 +9,11 @@
 <p>⚽Football,&nbsp;&nbsp;🏀Basketball,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🖼Oil Painting,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
 #
-<img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97">
+<div align="right">
+[![Solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
-
+</div>
 <h3>🔥 Tech Stack 🔥</h3>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/></p>
 
