@@ -24,7 +24,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-brightgreen?style=flat&logo=Django"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSql-blue?logo=postgresql&logoColor=white"/></p>
 
-<p align="center"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/VScode-grey?style=flat&logo=VisualStudioCode&logoColor=blue"/></p>
+<!-- <p align="center"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/VScode-grey?style=flat&logo=VisualStudioCode&logoColor=blue"/></p> -->
 </div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elsh97&show_icons=true&theme=tokyonight)
