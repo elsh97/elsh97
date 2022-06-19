@@ -10,7 +10,7 @@
 
 #
 <div align="right">
-<a href="https://solved.ac/elsh97"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97" /></a>
+<a href="https://solved.ac/elsh97"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97" /></a>
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97) -->
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
