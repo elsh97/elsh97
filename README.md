@@ -3,6 +3,7 @@
 <p>JS in process ...</p>
 <h2>Con brio, Ma non Troppo.</h2>
 <h3>Be vigorous but not to much so</h3>
+<p>Desperately hoping to join Naver Boostcamp</p>
 
 #
 <a href="https://drive.google.com/file/d/1UY52w0GscOwnXnJaT7RaGU9j-cwkKIet/view?usp=sharing">Capstone Design Project </a>
