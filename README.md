@@ -7,6 +7,8 @@
 #
 <a href="https://drive.google.com/file/d/1UY52w0GscOwnXnJaT7RaGU9j-cwkKIet/view?usp=sharing">Capstone Design Project </a>
 
+<a href="https://polished-tugboat-4b6.notion.site/KT-AIVLE-School-DX-Consultant-5546f9deb6a6497c90052f7e88bd58aa">KT AIVLE School</a>
+
 
 #
 <h3>❤ What I Like ❤</h3>
