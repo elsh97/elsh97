@@ -15,26 +15,36 @@
 <p>⚽Football,&nbsp;&nbsp;🏀Basketball,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🖼Oil Painting,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
 #
-<div align="right">
-<a href="https://solved.ac/elsh97"><img align="right" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97" /></a>
-<!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97) -->
-<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
+<div>
+    <div style="width:50%;height:150px;float:left">
+        <h2 align="center">🔥 Tech Stack 🔥</h2>
+        <p align="center"><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-brightgreen?style=flat&logo=Django"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSql-blue?logo=postgresql&logoColor=white"/></p>
+        <p align="left" style="padding-left:50px">💻 SQLD</p>
+        <p align="left" style="padding-left:50px">📢 OPIC : AL</p>
+        <!-- <p align="center"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/VScode-grey?style=flat&logo=VisualStudioCode&logoColor=blue"/></p> -->        
+    </div>
+    <div style="width:50%;height:150px;float:right">
+        <h2 align="center">🔥 Career 🔥</h2>
+        <ul align="left">
+            <li>금융보안캠프 (2021.06.07.~2021.07.09)</li>
+            <li>(주)이브릿지월드 인턴 (2022.01.03.~2022.05.06)</li>
+            <li>캡스톤디자인 (2022.03.07.~2022.06.22.)</li>
+        </ul>
+    </div>
+</div>
+
+
+<div>
+    <div style="width:50%;float:left">
+        <a href="https://solved.ac/elsh97"><img align="left" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97" /></a>
+        <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97) -->
+        <br>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
+    </div>
+    <div style="width:49%;float:right;padding-top:30px">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elsh97&layout=compactshow_icons=true&theme=tokyonight)
 
 </div>
 
-<div align="left">
-<h2 align="center">🔥 Tech Stack 🔥</h2>
-
-<!-- <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=F7DF1E"/></p> -->
-
-<p align="center"><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-brightgreen?style=flat&logo=Django"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSql-blue?logo=postgresql&logoColor=white"/></p>
-
-<!-- <p align="center"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/VScode-grey?style=flat&logo=VisualStudioCode&logoColor=blue"/></p> -->
-</div>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elsh97&show_icons=true&theme=tokyonight)
-
-
-</div>
 
