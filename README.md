@@ -19,8 +19,9 @@
     <div style="width:50%;height:150px;float:left">
         <h2 align="center">🔥 Tech Stack 🔥</h2>
         <p align="center"><img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-brightgreen?style=flat&logo=Django"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSql-blue?logo=postgresql&logoColor=white"/></p>
-        <p align="left" style="padding-left:50px">💻 SQLD</p>
-        <p align="left" style="padding-left:50px">📢 OPIC : AL</p>
+        <!-- <p align="left" style="padding-left:50px">💻 SQLD</p>
+        <p align="left" style="padding-left:50px">📢 OPIC : AL</p> -->
+        <p align="center"><img src="https://img.shields.io/badge/SQLD-blueviolet?style=flat"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/OPIc(AL)-important?style=flat"/></p>
         <!-- <p align="center"><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/VScode-grey?style=flat&logo=VisualStudioCode&logoColor=blue"/></p> -->        
     </div>
     <div style="width:50%;height:150px;float:right">
@@ -34,17 +35,17 @@
 </div>
 
 
-<div>
+<!-- <div>
     <div style="width:50%;float:left">
         <a href="https://solved.ac/elsh97"><img align="left" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97" /></a>
-        <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97) -->
+        <!-- [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=elsh97)](https://solved.ac/elsh97) 
         <br>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsh97&layout=compact&theme=tokyonight">
     </div>
-    <div style="width:49%;float:right;padding-top:30px">
+    <div style="width:49%;float:right;padding-top:30px"> -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elsh97&layout=compactshow_icons=true&theme=tokyonight)
 
-</div>
+<!-- </div> -->
 
 
