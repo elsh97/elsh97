@@ -26,7 +26,7 @@
     </div>
     <div style="width:50%;height:150px;float:right">
         <h2 align="center">🔥 Career 🔥</h2>
-        <ul align="left">
+        <ul align="center">
             <li>금융보안캠프 (2021.06.07.~2021.07.09)</li>
             <li>(주)이브릿지월드 인턴 (2022.01.03.~2022.05.06)</li>
             <li>캡스톤디자인 (2022.03.07.~2022.06.22.)</li>
